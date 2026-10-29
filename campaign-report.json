@@ -1,0 +1,703 @@
+[
+  {
+    "level": 6,
+    "chapter": "折返花园",
+    "mirrors": 2,
+    "locked": 0,
+    "blocks": 4,
+    "waves": 1,
+    "solution": [
+      0,
+      0
+    ]
+  },
+  {
+    "level": 7,
+    "chapter": "折返花园",
+    "mirrors": 2,
+    "locked": 0,
+    "blocks": 5,
+    "waves": 1,
+    "solution": [
+      1,
+      1
+    ]
+  },
+  {
+    "level": 8,
+    "chapter": "折返花园",
+    "mirrors": 3,
+    "locked": 0,
+    "blocks": 5,
+    "waves": 1,
+    "solution": [
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "level": 9,
+    "chapter": "折返花园",
+    "mirrors": 3,
+    "locked": 0,
+    "blocks": 5,
+    "waves": 1,
+    "solution": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 10,
+    "chapter": "折返花园",
+    "mirrors": 3,
+    "locked": 0,
+    "blocks": 3,
+    "waves": 1,
+    "solution": [
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "level": 11,
+    "chapter": "双星并行",
+    "mirrors": 3,
+    "locked": 0,
+    "blocks": 6,
+    "waves": 1,
+    "solution": [
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 12,
+    "chapter": "双星并行",
+    "mirrors": 3,
+    "locked": 0,
+    "blocks": 6,
+    "waves": 2,
+    "solution": [
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "level": 13,
+    "chapter": "双星并行",
+    "mirrors": 4,
+    "locked": 0,
+    "blocks": 4,
+    "waves": 1,
+    "solution": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "level": 14,
+    "chapter": "双星并行",
+    "mirrors": 4,
+    "locked": 0,
+    "blocks": 9,
+    "waves": 2,
+    "solution": [
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 15,
+    "chapter": "双星并行",
+    "mirrors": 4,
+    "locked": 0,
+    "blocks": 9,
+    "waves": 2,
+    "solution": [
+      1,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "level": 16,
+    "chapter": "交叉清障",
+    "mirrors": 3,
+    "locked": 0,
+    "blocks": 7,
+    "waves": 2,
+    "solution": [
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "level": 17,
+    "chapter": "交叉清障",
+    "mirrors": 3,
+    "locked": 0,
+    "blocks": 12,
+    "waves": 2,
+    "solution": [
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "level": 18,
+    "chapter": "交叉清障",
+    "mirrors": 4,
+    "locked": 0,
+    "blocks": 7,
+    "waves": 2,
+    "solution": [
+      0,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "level": 19,
+    "chapter": "交叉清障",
+    "mirrors": 4,
+    "locked": 0,
+    "blocks": 6,
+    "waves": 2,
+    "solution": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 20,
+    "chapter": "交叉清障",
+    "mirrors": 4,
+    "locked": 0,
+    "blocks": 8,
+    "waves": 2,
+    "solution": [
+      1,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "level": 21,
+    "chapter": "静止的镜子",
+    "mirrors": 5,
+    "locked": 1,
+    "blocks": 5,
+    "waves": 1,
+    "solution": [
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "level": 22,
+    "chapter": "静止的镜子",
+    "mirrors": 5,
+    "locked": 1,
+    "blocks": 6,
+    "waves": 2,
+    "solution": [
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 23,
+    "chapter": "静止的镜子",
+    "mirrors": 5,
+    "locked": 1,
+    "blocks": 6,
+    "waves": 1,
+    "solution": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "level": 24,
+    "chapter": "静止的镜子",
+    "mirrors": 5,
+    "locked": 1,
+    "blocks": 8,
+    "waves": 2,
+    "solution": [
+      0,
+      0,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "level": 25,
+    "chapter": "静止的镜子",
+    "mirrors": 5,
+    "locked": 1,
+    "blocks": 4,
+    "waves": 2,
+    "solution": [
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 26,
+    "chapter": "深光回廊",
+    "mirrors": 5,
+    "locked": 0,
+    "blocks": 13,
+    "waves": 2,
+    "solution": [
+      1,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "level": 27,
+    "chapter": "深光回廊",
+    "mirrors": 5,
+    "locked": 0,
+    "blocks": 9,
+    "waves": 2,
+    "solution": [
+      0,
+      0,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "level": 28,
+    "chapter": "深光回廊",
+    "mirrors": 5,
+    "locked": 0,
+    "blocks": 15,
+    "waves": 2,
+    "solution": [
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 29,
+    "chapter": "深光回廊",
+    "mirrors": 6,
+    "locked": 0,
+    "blocks": 8,
+    "waves": 2,
+    "solution": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "level": 30,
+    "chapter": "深光回廊",
+    "mirrors": 6,
+    "locked": 0,
+    "blocks": 12,
+    "waves": 2,
+    "solution": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "level": 31,
+    "chapter": "三色协奏",
+    "mirrors": 6,
+    "locked": 0,
+    "blocks": 17,
+    "waves": 2,
+    "solution": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 32,
+    "chapter": "三色协奏",
+    "mirrors": 6,
+    "locked": 0,
+    "blocks": 18,
+    "waves": 2,
+    "solution": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 33,
+    "chapter": "三色协奏",
+    "mirrors": 6,
+    "locked": 0,
+    "blocks": 8,
+    "waves": 3,
+    "solution": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "level": 34,
+    "chapter": "三色协奏",
+    "mirrors": 6,
+    "locked": 0,
+    "blocks": 16,
+    "waves": 2,
+    "solution": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "level": 35,
+    "chapter": "三色协奏",
+    "mirrors": 6,
+    "locked": 0,
+    "blocks": 12,
+    "waves": 2,
+    "solution": [
+      0,
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 36,
+    "chapter": "互相成全",
+    "mirrors": 7,
+    "locked": 0,
+    "blocks": 15,
+    "waves": 3,
+    "solution": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 37,
+    "chapter": "互相成全",
+    "mirrors": 7,
+    "locked": 0,
+    "blocks": 12,
+    "waves": 4,
+    "solution": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  {
+    "level": 38,
+    "chapter": "互相成全",
+    "mirrors": 7,
+    "locked": 0,
+    "blocks": 19,
+    "waves": 4,
+    "solution": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "level": 39,
+    "chapter": "互相成全",
+    "mirrors": 7,
+    "locked": 0,
+    "blocks": 8,
+    "waves": 2,
+    "solution": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "level": 40,
+    "chapter": "互相成全",
+    "mirrors": 7,
+    "locked": 0,
+    "blocks": 19,
+    "waves": 3,
+    "solution": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 41,
+    "chapter": "光路迷阵",
+    "mirrors": 8,
+    "locked": 1,
+    "blocks": 19,
+    "waves": 2,
+    "solution": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1
+    ]
+  },
+  {
+    "level": 42,
+    "chapter": "光路迷阵",
+    "mirrors": 8,
+    "locked": 1,
+    "blocks": 12,
+    "waves": 2,
+    "solution": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 43,
+    "chapter": "光路迷阵",
+    "mirrors": 8,
+    "locked": 1,
+    "blocks": 19,
+    "waves": 2,
+    "solution": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "level": 44,
+    "chapter": "光路迷阵",
+    "mirrors": 8,
+    "locked": 1,
+    "blocks": 11,
+    "waves": 2,
+    "solution": [
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "level": 45,
+    "chapter": "光路迷阵",
+    "mirrors": 8,
+    "locked": 1,
+    "blocks": 7,
+    "waves": 2,
+    "solution": [
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ]
+  },
+  {
+    "level": 46,
+    "chapter": "最后的交响",
+    "mirrors": 9,
+    "locked": 1,
+    "blocks": 16,
+    "waves": 2,
+    "solution": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "level": 47,
+    "chapter": "最后的交响",
+    "mirrors": 9,
+    "locked": 1,
+    "blocks": 21,
+    "waves": 3,
+    "solution": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "level": 48,
+    "chapter": "最后的交响",
+    "mirrors": 9,
+    "locked": 1,
+    "blocks": 21,
+    "waves": 2,
+    "solution": [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ]
+  },
+  {
+    "level": 49,
+    "chapter": "最后的交响",
+    "mirrors": 9,
+    "locked": 1,
+    "blocks": 16,
+    "waves": 3,
+    "solution": [
+      1,
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "level": 50,
+    "chapter": "最后的交响",
+    "mirrors": 9,
+    "locked": 1,
+    "blocks": 13,
+    "waves": 2,
+    "solution": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ]
+  }
+]
