@@ -1,8 +1,0 @@
-const fs=require('node:fs');let html=fs.readFileSync('dist/index.html','utf8');
-html=html.replace('碎光实验室 · Laser Bloom','碎光实验室 · 50 关').replace('VOL. 01','50 LEVELS').replace('01 — 初光实验','<span id="chapterName">01 — 初光实验</span>').replace('0 / 5 完成','0 / 50 完成');
-html=html.replace('<div><i class="mirror-swatch"></i>','<div><i class="gold"></i>金色光 · ▲ 晶块</div><div><i class="wall-swatch"></i>石墙挡光 · 带锁镜子不可旋转</div><div><i class="mirror-swatch"></i>');
-html=html.replace('<nav id="levels" aria-label="选择关卡"></nav>','<div class="chapter-toolbar"><button id="prevChapter" class="chapter-arrow" aria-label="上一章节">‹</button><nav id="levels" aria-label="选择关卡"></nav><button id="nextChapter" class="chapter-arrow" aria-label="下一章节">›</button><button id="chapterButton" class="map-button">全部 50 关 ↗</button></div>');
-html=html.replace('<div class="status" id="status"','<div class="status-row"><div class="status" id="status"').replace('调整镜子，准备好后发射。</div><div class="actions">','调整镜子，准备好后发射。</div><button id="undo" class="undo-button" aria-label="撤销上一次旋转">↶ 撤销</button></div><div class="actions">');
-html=html.replace('前五关 · 可玩原型','十个章节 · 50 关挑战').replace('<script src="engine.js">','<script src="campaign.js"></script><script src="engine.js">');
-html=html.replace('</main>','</main><dialog id="levelDialog"><div class="dialog-heading"><div><div class="eyebrow">CHOOSE YOUR EXPERIMENT</div><h2>寻找下一束光</h2></div><button id="closeDialog" class="icon" aria-label="关闭关卡地图">✕</button></div><p class="map-note">自由选关 · 进度自动保存在此浏览器<br>一发清空 ★★★ · 三发以内 ★★ · 完成 ★</p><div id="catalogue"></div></dialog>');
-fs.writeFileSync('dist/index.html',html);
